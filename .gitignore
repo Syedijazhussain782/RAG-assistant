@@ -1,0 +1,21 @@
+# Ignore environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Chroma / SQLite database files
+*.db
+*.sqlite3
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
